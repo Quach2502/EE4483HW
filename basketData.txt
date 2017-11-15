@@ -1,0 +1,180 @@
+Banana, Ham, IceCream, Egg, Quiche, Olive, Diaper, Tea, Jam
+Nuts
+Apple, Nuts, Ketchup
+Coffee, Jam, Rootbeer, PeanutButter
+Rootbeer, Coffee, Apple, Quiche, Egg
+Diaper, Ketchup, Ginger
+PeanutButter, Ginger, Ham, Olive, Egg, Salad, Apple
+PeanutButter
+Coffee, IceCream, Rootbeer, Salad
+Ginger, Quiche
+Fish, Ketchup, Banana, Tea, Olive, Quiche, Diaper
+Coffee, Salad
+Banana, Tea, Egg, Olive, Diaper, Lemon, Rootbeer, Quiche, Salad
+PeanutButter, Ham, Ketchup, Banana, Egg, Quiche, Milk, Lemon, Jam, Rootbeer
+Egg, Fish, Olive, Diaper, Apple, Rootbeer, Lemon, Jam, Ketchup, Tea
+Jam, Lemon, Ginger, IceCream, Diaper, Apple, Milk
+Apple, Fish, Lemon, Ham, Jam, Salad, Rootbeer, Banana, Milk
+Fish, Salad, Ginger, Olive, Diaper, Banana, Quiche, PeanutButter, Ham, Apple
+Salad, Apple, IceCream, Tea, Quiche, Ham, Diaper, Nuts, Ketchup, Fish
+Ketchup, Nuts, Coffee, Apple, Ginger, Lemon, IceCream, Salad, Egg, Ham
+Coffee, Jam
+Fish, Tea, Lemon, Egg
+Coffee, Egg, Lemon, Tea, Ham, PeanutButter
+Egg, IceCream, Diaper, Olive, Coffee, Fish, Rootbeer, PeanutButter, Apple
+IceCream
+Coffee
+Salad, Rootbeer
+Ginger, PeanutButter, Diaper, Fish, Olive, Egg, Rootbeer
+Tea, Ginger, Lemon, Quiche, Ham
+Nuts, Banana, Egg, Tea, Diaper, Rootbeer
+Ketchup, Nuts, Jam, Quiche, Apple, Tea, Coffee, IceCream, PeanutButter
+Tea, Egg, Banana, PeanutButter, Olive, Coffee, Ham, Apple, Nuts
+Lemon
+Lemon, Ginger
+IceCream, Quiche, Tea, Coffee
+Olive, Nuts, Lemon, Jam, Diaper, Ginger, Ham, Apple
+Diaper, Olive, Tea, Apple, Fish, Banana, Ketchup, Nuts, Jam, IceCream
+PeanutButter, Ketchup, Apple
+Apple, Ginger, Lemon, Coffee, Tea, Ketchup, Banana, Rootbeer, Egg
+Jam, Ketchup, Diaper, Nuts, Lemon, Olive, Rootbeer, Ginger
+Ginger, Jam, Quiche, Nuts, Ketchup, Salad, Ham
+Jam, Olive, Fish, Milk, Egg, Ham, Apple, Nuts, Banana
+Ginger, Nuts, Rootbeer, Lemon, Ketchup, PeanutButter, Apple
+Rootbeer, Lemon, Banana, Tea, Salad
+Ham, Banana, Quiche
+Egg, IceCream, Apple, Lemon, Rootbeer, PeanutButter, Coffee, Tea, Ham, Diaper
+Diaper, Nuts, Banana, Coffee, IceCream, Apple, Ham
+Rootbeer, PeanutButter
+Nuts, Apple, Ketchup, Coffee, Milk, Diaper, Lemon, Quiche
+Milk, Lemon, IceCream, Jam, Ketchup
+Milk, Coffee, Ham, Diaper, Fish, Banana, Tea, Nuts, Quiche, IceCream
+Egg, Salad, Lemon, Banana, Diaper, Ketchup, PeanutButter
+Olive, Diaper, IceCream, Ketchup, Ham, Coffee, Salad
+Salad, Jam, Quiche, Egg
+Fish
+Salad, IceCream, Rootbeer, Quiche, Apple
+Coffee, Ginger, Ketchup, Jam, Fish, Quiche, Milk, Olive, Egg
+PeanutButter, Ketchup, Diaper, Jam
+Tea, Milk, Coffee, Fish, Apple, Lemon, Olive, Ham
+Fish, Diaper, Olive, Tea, Apple
+Ham, Milk, Quiche, Lemon, Olive, Apple, Tea
+Rootbeer
+Egg
+Quiche, Ginger
+Jam, Banana, Tea, Nuts, Olive, Milk, IceCream
+Fish, Apple
+Diaper, Egg, Ginger, PeanutButter, Salad, Banana
+Salad, Fish
+Rootbeer, Ketchup, Coffee, Olive
+PeanutButter, IceCream, Milk, Nuts
+Quiche, Milk, Salad, Nuts
+Rootbeer, Tea, Lemon
+Lemon, Coffee, Milk
+Ketchup
+Tea, Ham, Quiche
+PeanutButter, Banana, Nuts, Tea, Lemon, IceCream, Ketchup, Olive, Ham
+Banana, Coffee, Fish, Jam, Apple, Ginger
+Ginger, Banana, Egg, Jam, IceCream
+Diaper, Rootbeer, Ketchup, Jam, IceCream, Nuts
+Apple, Olive
+Milk, Banana, Rootbeer, Egg, Ginger, Coffee, Diaper
+Ketchup, Diaper, Tea, Lemon, Jam
+Apple, Ketchup, Lemon, Salad, Egg, Rootbeer, Coffee
+Ginger, Ham, Quiche
+Nuts, Lemon, Fish, Rootbeer, Jam, PeanutButter, Ketchup, Coffee, Ham, Banana
+Coffee, Nuts, Salad, Apple, Banana, Jam, Ketchup
+PeanutButter
+Diaper, Ham, Jam, Ginger
+Salad, Fish, Olive, Banana, Apple
+Diaper, Fish, Coffee, Olive, Tea
+Jam, Diaper, Fish, Salad, Ketchup, Banana, Ham, Apple, IceCream, PeanutButter
+Apple, Ginger, Nuts, Tea, Ham, Diaper
+Jam, Quiche, Egg, IceCream, Ginger, Banana, Olive, Diaper, Milk, Coffee
+Ginger, Rootbeer, Banana
+Lemon
+Ginger, Banana, PeanutButter, Salad, Ketchup
+Milk, Coffee, Rootbeer, PeanutButter
+Olive, Ham, Ketchup, Fish
+Ham
+Lemon
+PeanutButter, Fish, Rootbeer, IceCream, Ham, Diaper, Banana
+Jam, Quiche, Diaper, Olive, Tea
+Milk, Ginger, IceCream, Rootbeer, Diaper, Quiche
+Quiche, Salad, Nuts, Diaper
+Egg, Nuts, PeanutButter, Fish, Jam
+Apple, Rootbeer, Ginger, Nuts, Ham, Olive, Quiche
+Quiche, Jam, Apple, Ketchup, Lemon
+Quiche, IceCream, Fish, Olive, Rootbeer, Ginger, Apple, Banana, PeanutButter, Ketchup
+IceCream, Banana, Ham, Coffee, Tea, Olive, Lemon, Fish, Diaper
+Quiche, Milk, Lemon, IceCream, PeanutButter, Ham, Olive, Coffee, Ginger, Nuts
+Tea, Rootbeer, Ginger
+Milk, PeanutButter, Tea, Ketchup, Jam
+Fish, Milk
+Ham, PeanutButter, Milk, Rootbeer, Nuts, Ginger, Lemon
+Lemon
+Ginger, Ketchup, Lemon, Tea, Quiche, Salad, PeanutButter, Ham, IceCream
+Banana, Coffee, Fish, IceCream, Lemon
+Coffee, IceCream, Egg, Quiche, Milk, Apple, Diaper, Rootbeer, Ginger, Lemon
+Fish, Diaper, Egg, Coffee, Olive, Apple
+Diaper, Jam, Quiche, Ginger, Egg, Nuts, Lemon, Fish, Coffee
+Lemon, Rootbeer, Nuts, Banana, IceCream, Ham
+Lemon, Tea
+Salad, Milk, Nuts, Quiche
+Ham, Olive
+Egg, Coffee
+Olive, Banana, Apple, Nuts, PeanutButter, Rootbeer, Ham
+Lemon, PeanutButter, Tea, Salad, Milk, IceCream
+Salad, Apple, Fish, Milk, Egg, Coffee, Ginger, Ketchup
+Apple, Milk, PeanutButter, Ginger, Coffee, Rootbeer, Nuts
+Diaper
+Fish, Milk
+PeanutButter, Quiche, Rootbeer
+Ketchup, Banana, Jam, Fish, Diaper
+Quiche, Coffee, PeanutButter
+Tea, Diaper, Egg, Banana, Ketchup, Fish
+Fish, Quiche, Olive, Ham
+Ham, Salad, Lemon, Tea, Quiche, Banana, Ginger, Apple, PeanutButter
+Apple, Tea
+Coffee, Milk, Ketchup, Olive, Ginger, Tea, Nuts
+IceCream, Rootbeer
+Ketchup, Egg, Fish
+Jam, Coffee, Rootbeer, PeanutButter, Milk
+Apple
+Salad, Jam, Nuts, Ginger, Diaper, PeanutButter
+Milk, Egg, Lemon, Nuts, Olive, Quiche, Ginger
+PeanutButter, Jam
+Ginger, Milk, Banana, Tea, Olive, Salad
+Nuts, IceCream, Ginger, Ketchup, Jam, Salad, Rootbeer, Coffee, Apple, Banana
+Milk, Egg, Ham, PeanutButter, Apple, Ginger, Ketchup, Quiche, Rootbeer, Banana
+Ham, Lemon, Apple, Coffee, Milk, Banana, Nuts, Egg, Salad, Ketchup
+Rootbeer, Apple, Tea, Nuts, Fish, Ginger, Milk
+Quiche
+Diaper, Ketchup, Ham, Tea, Ginger, Banana
+Jam, Lemon, Ham, Tea, Rootbeer, Olive, Quiche, Apple, Milk
+Diaper, Ginger, Ketchup, Lemon, IceCream
+PeanutButter
+Coffee, Nuts, Egg, Jam, Milk, Diaper, Rootbeer, Ginger
+Fish, Quiche, Jam, Apple, Banana, Ham, Lemon, Tea, IceCream
+Lemon, Milk, Ham, Diaper, PeanutButter, Tea
+Lemon
+Olive, Tea, Diaper, Quiche, Rootbeer, Banana
+Salad
+Diaper, Milk, Nuts, Jam, PeanutButter, Rootbeer, Coffee, Lemon, Olive
+Apple, IceCream, Fish, Olive, Tea, Diaper, Milk, Banana
+Ginger, Olive, PeanutButter, Milk, Jam, Nuts, Tea
+Milk, Jam, Tea, Coffee, Rootbeer, Banana, Apple, PeanutButter
+Rootbeer, Fish, Coffee, Jam
+Olive, Nuts, Apple
+Ketchup, Lemon, Olive
+Salad, Jam, IceCream, Nuts, Banana
+Salad
+Coffee, Apple, Egg, Banana, Milk, PeanutButter, Lemon, Olive, Salad, Diaper
+Lemon, Egg, Banana
+IceCream, PeanutButter
+Ketchup, Salad, Coffee, Apple, Tea, Diaper
+Olive, Ginger, Milk, Ketchup, Ham
+Ketchup, Tea, Egg, Ginger
+Nuts, Apple, Quiche, Egg, Salad, IceCream, Banana, Tea, Ham
+Apple, Rootbeer, IceCream
+Ginger, Nuts, Jam, Fish, PeanutButter, Coffee, Ham, Apple, Quiche
